@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "_qtgCWWta616cHqBrTJZl"
+uri = "file://StockFlow_Technical_Report.pdf"
+type = "pdf"
+title = "StockFlow Technical Report"
